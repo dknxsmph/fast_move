@@ -21,7 +21,6 @@ public class ToyData {
         person[1] = new Person("Chokjaroen", "Tanjaroenrat");
         person[2] = new Person("Natthakan", "Thaweewatthanaprayun");
         // your code
-
         return person;
     }
 
